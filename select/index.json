@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Monochromatic",
+  "base_artist": "シーズ",
+  "createdAt": "2025-12-02T18:39:41.870814Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Monochromatic Stains",
+      "artist": "Dark Tranquillity",
+      "has_synced": true,
+      "path": "select/01_Monochromatic_Stains_Dark_Tranquillity.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Monochromatic World",
+      "artist": "Ugress",
+      "has_synced": true,
+      "path": "select/02_Monochromatic_World_Ugress.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Monochromatic Stains",
+      "artist": "Dark Tranquility",
+      "has_synced": true,
+      "path": "select/03_Monochromatic_Stains_Dark_Tranquility.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Monochromatic Stains",
+      "artist": "Dark Tranquillity",
+      "has_synced": true,
+      "path": "select/04_Monochromatic_Stains_Dark_Tranquillity.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Monochromatic Stains (Dark Tranquillity Cover)",
+      "artist": "The Agonist",
+      "has_synced": true,
+      "path": "select/05_Monochromatic_Stains_(Dark_Tranquillity_Cover)_The_Agonist.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Monochromatic Stains (Cover Of The Agonist)",
+      "artist": "Dark Tranquillity",
+      "has_synced": true,
+      "path": "select/06_Monochromatic_Stains_(Cover_Of_The_Agonist)_Dark_Tranquillity.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Monochromatic Stains",
+      "artist": "Dark Tranquillity",
+      "has_synced": false,
+      "path": "select/07_Monochromatic_Stains_Dark_Tranquillity.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Monochromatic Stains (Dark Tranqillity Cover) (Bonus Track)",
+      "artist": "The Agonist",
+      "has_synced": true,
+      "path": "select/08_Monochromatic_Stains_(Dark_Tranqillity_Cover)_(Bonus_Track)_The_Agonist.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Monochromatic",
+      "artist": "Mary Lambert",
+      "has_synced": true,
+      "path": "select/09_Monochromatic_Mary_Lambert.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Monochromatic Stains [Cover Of Dark Tranquillity]",
+      "artist": "The Agonist",
+      "has_synced": true,
+      "path": "select/10_Monochromatic_Stains_[Cover_Of_Dark_Tranquillity]_The_Agonist.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Monochromatic Stains [Dark Tranquillity Cover]",
+      "artist": "The Agonist",
+      "has_synced": true,
+      "path": "select/11_Monochromatic_Stains_[Dark_Tranquillity_Cover]_The_Agonist.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Monochromatic Stains",
+      "artist": "The Agonist",
+      "has_synced": true,
+      "path": "select/12_Monochromatic_Stains_The_Agonist.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Monochromatic Stains (Live)",
+      "artist": "Dark Tranquillity",
+      "has_synced": false,
+      "path": "select/13_Monochromatic_Stains_(Live)_Dark_Tranquillity.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Monochromatic Stains (Live in Krakow, 2002)",
+      "artist": "Dark Tranquillity",
+      "has_synced": false,
+      "path": "select/14_Monochromatic_Stains_(Live_in_Krakow,_2002)_Dark_Tranquillity.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Monochromatic",
+      "artist": "シーズ",
+      "has_synced": false,
+      "path": "select/pl_01_Monochromatic_シーズ.txt"
+    }
+  ]
+}
